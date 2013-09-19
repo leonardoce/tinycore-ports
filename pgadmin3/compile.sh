@@ -17,5 +17,5 @@ cp pgadmin/include/images/pgAdmin3-32.png /tmp/pgadmin3/usr/local/share/pixmaps/
 echo X-FullPathIcon=/usr/local/share/pixmaps/pgAdmin3-32.png >> /tmp/pgadmin3/usr/local/share/applications/pgadmin3.desktop
 
 # Impacchetto
-
+cd ..
 mksquashfs /tmp/pgadmin3 pgadmin3.tcz
