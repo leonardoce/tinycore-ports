@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Terminal
+Name=jEdit
 Exec=java -jar /usr/local/jedit/jedit.jar
 Type=Application
 X-FullPathIcon=/usr/local/share/pixmaps/jedit.png
