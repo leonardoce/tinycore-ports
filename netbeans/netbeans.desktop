@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=NetBeans
+Exec=/usr/local/netbeans/bin/netbeans --jdkhome /usr/local/java/jdk1.7.0_40
+Type=Application
+X-FullPathIcon=/usr/local/share/pixmaps/netbeans.png
+Icon=netbeans
+OnlyShowIn=Old;
+Categories=System;
