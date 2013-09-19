@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Terminal
+Exec=java -jar /usr/local/jedit/jedit.jar
+Type=Application
+X-FullPathIcon=/usr/local/share/pixmaps/jedit.png
+Icon=jedit
+OnlyShowIn=Old;
+Categories=System;
