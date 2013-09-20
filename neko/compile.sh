@@ -12,7 +12,7 @@ mkdir -p /tmp/neko/usr/local/lib
 cp ./neko-2.0.0-linux/*.so /tmp/neko/usr/local/lib
 
 mkdir -p /tmp/neko/usr/local/lib/neko
-cp -r ./neko-2.0.0-linux /tmp/neko/usr/local/lib/neko
+cp -r ./neko-2.0.0-linux/* /tmp/neko/usr/local/lib/neko
 
 # Packaging
 mksquashfs /tmp/neko neko.tcz
