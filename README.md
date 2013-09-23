@@ -10,7 +10,7 @@ This tree is being useful for me and I put it on GitHub in the hope
 that will be useful for others.
 
 
-How to use it 
+How to use it
 -------------
 
 You must load the "compiletc.tcz" extension to have a working compiler
@@ -51,7 +51,7 @@ Frequently asked questions
 --------------------------
 
 Q1) Wait... you are building really big extensions. This is opposite to
-the spirit of TinyCore? Why are you doing this mess?
+the spirit of TinyCore! Why are you doing this mess?
 
 R1) I'm a developer and I really like building my software. I like to
 read the header files and to study how to executables are linked. To
