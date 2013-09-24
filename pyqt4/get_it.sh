@@ -1,0 +1,1 @@
+wget http://sourceforge.net/projects/pyqt/files/PyQt4/PyQt-4.10.3/PyQt-x11-gpl-4.10.3.tar.gz
