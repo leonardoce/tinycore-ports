@@ -24,4 +24,4 @@ INSTALL_ROOT=/tmp/qt-sdk make install -j3
 
 # Packaging
 cd ..
-mksquashfs /tmp/qt-sdk qt-sdk.tcz
+mksquashfs /tmp/qt-sdk qt5-sdk.tcz
