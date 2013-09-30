@@ -1,0 +1,1 @@
+wget http://sourceforge.net/projects/pyqt/files/QScintilla2/QScintilla-2.7.2/QScintilla-gpl-2.7.2.tar.gz
