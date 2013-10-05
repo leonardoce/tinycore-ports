@@ -27,7 +27,7 @@ done
 
 # generating config file when the package will be installed
 mkdir -p /tmp/freepascal/usr/local/tce.installed
-echo /usr/local/freepascal/lib/fpc/2.6.2/samplecfg  /usr/local/freepascal/lib/fpc/2.6.2/ /usr/local/etc/ > /tmp/freepascal/usr/local/tce.installed/freepascal
+echo /usr/local/freepascal/lib/fpc/2.6.2/samplecfg  /usr/local/freepascal/lib/fpc/2.6.2/ /etc/ > /tmp/freepascal/usr/local/tce.installed/freepascal
 chmod +x /tmp/freepascal/usr/local/tce.installed/freepascal
 
 # squashing fs
